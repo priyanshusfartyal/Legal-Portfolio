@@ -1,6 +1,7 @@
 Priyanshu Fartyal – Legal Research Portfolio
 
-About Me
+# About Me
+
 I am a law graduate with a strong interest in research, regulatory analysis, and public law. I have hands-on experience in secondary research, legal writing, and case analysis, with a focus on technology law, data protection, and regulatory frameworks.
 
 ## Research Articles
